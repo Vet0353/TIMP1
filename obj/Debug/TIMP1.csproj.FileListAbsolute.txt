@@ -1,0 +1,7 @@
+C:\Users\roman\source\repos\TIMP1\bin\Debug\TIMP1.exe.config
+C:\Users\roman\source\repos\TIMP1\bin\Debug\TIMP1.exe
+C:\Users\roman\source\repos\TIMP1\bin\Debug\TIMP1.pdb
+C:\Users\roman\source\repos\TIMP1\obj\Debug\TIMP1.csprojAssemblyReference.cache
+C:\Users\roman\source\repos\TIMP1\obj\Debug\TIMP1.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\TIMP1\obj\Debug\TIMP1.exe
+C:\Users\roman\source\repos\TIMP1\obj\Debug\TIMP1.pdb
